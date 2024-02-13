@@ -18,7 +18,25 @@
 
 footer{
     text-align: center;
-    background-color: rgb(188, 245, 245);
+    background-color: rgb(145, 121, 121);
     padding: 60px;
     margin-top: 40px;
+    color: #c3eeeb;
 }
+
+.tituloindex{
+    display: flex; 
+    justify-content: center;
+    
+}
+
+.coloratodo{
+    background-color:rgb(214, 230, 230);
+}
+
+
+.nav{
+    background-color: yellow;
+}
+
+
