@@ -1,0 +1,25 @@
+.imgemp{
+    display: flex;
+    border-radius: 8px; 
+    width: 200px;
+    
+}
+
+.imgdiv{
+    display: flex;
+    justify-content:center;
+
+}
+
+.accordion-body{
+        text-align: center;
+    background-color: rgb(#c3eeeb);
+}
+
+.accordion-item{
+    background-color: rgb(#9fd6d2);
+}
+
+.Accordion-header{
+    background-color: rgb(#c3eeeb);
+}
