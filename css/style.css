@@ -16,10 +16,9 @@
     background-color: rgb(#c3eeeb);
 }
 
-.accordion-item{
-    background-color: rgb(#9fd6d2);
-}
-
-.Accordion-header{
-    background-color: rgb(#c3eeeb);
+footer{
+    text-align: center;
+    background-color: rgb(188, 245, 245);
+    padding: 60px;
+    margin-top: 40px;
 }
