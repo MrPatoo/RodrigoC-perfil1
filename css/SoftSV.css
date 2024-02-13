@@ -1,0 +1,25 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card{
+    margin: 30px;
+}
+
+.titulo{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.card-body{
+    text-align: center;
+    
+    
+}
+
+.btn{
+    padding-left: 30px;
+    padding-right: 30px;
+}
